@@ -1,0 +1,9 @@
+{
+  "extends": "eslint-config-rallycoding",
+  "rules": {
+    "camelcase": "off",
+    "no-prototype-builtins": "off",
+    "no-underscore-dangle": "off",
+    "no-constant-condition": "off"
+  }
+}

@@ -1,0 +1,5 @@
+export const AUTH_SIGN_IN = 'AUTH_SIGN_IN';
+export const AUTH_REGISTER = 'AUTH_REGISTER';
+export const AUTH_GET_ERROR = 'AUTH_GET_ERROR ';
+
+export const GET_COMMON_REQUEST = 'GET_COMMON_REQUEST';
